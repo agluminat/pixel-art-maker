@@ -1,16 +1,38 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+Choose your grid size and pick a color to draw pixel art!
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## Guidelines
 
-## Instructions
+* Set the size of the canvas by entering height and width of it.
+* Submit button creates your grid.
+* Pick a color from the ColorPicker.
+* Draw using your mouse by clicking on the grid's cells.
+* You can always change the color.
+* Anytime you click submit button the grid will clear.
+* Start over!
 
-To get started, open `designs.js` and start building out the app's functionality.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+## License
 
-## Contributing
+MIT License
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Copyright (c) [2019] [Maxi Sagmeister]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
