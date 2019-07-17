@@ -9,8 +9,7 @@ Choose your grid size and pick a color to draw pixel art!
 * Pick a color from the ColorPicker.
 * Draw using your mouse by clicking on the grid's cells.
 * You can always change the color.
-* Anytime you click submit button the grid will clear.
-* Start over!
+* Anytime you click submit button the grid will clear. Start over!
 
 
 ## License
