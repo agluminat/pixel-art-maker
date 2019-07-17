@@ -23,7 +23,7 @@ table.addEventListener('click', function(event) {
     }
 });
 
-// Create the canvas with rows(x) and columns(y).
+// Canvas should appear when user submits height(x) and width(y).
 function makeGrid() {
     for (let x = 1; x <= height.value; x++) {
         var row = document.createElement('tr');
